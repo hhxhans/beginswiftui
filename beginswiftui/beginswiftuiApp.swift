@@ -18,7 +18,8 @@ struct beginswiftuiApp: App {
             //iconview()
            // imageview()
            // frameview()
-            backgroundandoverlayview()
+           // backgroundandoverlayview()
+            stackview()
             //ContentView()
         }
     }
