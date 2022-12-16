@@ -11,11 +11,11 @@ The project focuses on the basis of SwiftUI.
 	- [text](#text)
 	- [shape](#shape)
 	- [color](#color)
-                - [gradient](#gradient)
-                - [icon](#icon)
-                - [image](#image)
-                - [frame](#frame)
-                - [backgroundandoverlay](#backgroundandoverlay)
+	- [gradient](#gradient)
+	- [icon](#icon)
+	- [image](#image)
+	- [frame](#frame)
+	- [backgroundandoverlay](#backgroundandoverlay)
 
 
 
@@ -46,7 +46,7 @@ Text("SwiftUI")
 
 <details close>
   <summary>View running results</summary>
-  <img width="80%" src="images/example/text.png"/>
+  <img width="80%" src="images/example/Text.png"/>
 </details>
 
 [🔝](#stage1_D)
