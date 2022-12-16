@@ -12,14 +12,21 @@ struct beginswiftuiApp: App {
     var body: some Scene {
         WindowGroup {
 //            textview()
-//            shapeview()
-//            colorview()
-            //gradientview()
-            //iconview()
-           // imageview()
-           // frameview()
+           // shapeview()
+//           colorview()
+//            gradientview()
+//            iconview()
+//            imageview()
+//            frameview()
            // backgroundandoverlayview()
-            stackview()
+            //stackview()
+//            paddingview()
+//            spacerview()
+//            initview(count: 20, fruit: .apple)
+//            foreachview()
+//            scrollview()
+//            gridview()
+            safeareaview()
             //ContentView()
         }
     }

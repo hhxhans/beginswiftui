@@ -19,7 +19,7 @@ struct shapeview: View {
             //.stroke()
             //.stroke(Color.blue)
             //.stroke(Color.blue, lineWidth: 20)
-//            .stroke(Color.purple, style: StrokeStyle(lineWidth: 15, lineCap:.round,  dash: [50]))
+            .stroke(Color.purple, style: StrokeStyle(lineWidth: 15, lineCap:.round,  dash: [50]))
 //            .trim(from: 0.0, to: 1)
 //            .stroke(Color.blue, lineWidth: 20)
             .frame(width: 300, height: 250)

@@ -7,7 +7,7 @@ The project focuses on the basis of SwiftUI.
 
 
 
-* <span id="stage1_D">stage1</span>
+* <span id="Stage1_D">Stage1</span>
 	- [Text](#Text)
 	- [Shape](#Shape)
 	- [Color](#Color)
@@ -25,10 +25,7 @@ The project focuses on the basis of SwiftUI.
 <h4 id="Text">Text</h4>
 
 
-`Text` is used to display one or more lines of text content with the same effect as `UILabel`, but it is even better.
-
-If you want to create `Text`, just create it with `Text("SwiftUI")`;
-With chained syntax, you can also add multiple attributes to the text, such as fonts, colors, shadows, spacing between top left and right, and so on.
+`Text` is a view that displays one or more lines of read-only text.
 
 Example:
 
@@ -49,5 +46,5 @@ Text("SwiftUI")
   <img width="80%" src="images/example/Text.png"/>
 </details>
 
-[🔝](#stage1_D)
+[🔝](#Stage1_D)
 

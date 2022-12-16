@@ -11,6 +11,25 @@ import SwiftUI
 //Zstack:zindex(back to front)
 struct stackview: View {
     var body: some View {
+
+        
+        HStack(spacing:0){
+            Text("please")
+                .font(.title)
+                .underline()
+            Text("2")
+                .font(.largeTitle)
+                .foregroundColor(.red)
+            
+        }
+    }
+}
+
+struct stackview_Previews: PreviewProvider {
+    static var previews: some View {
+        stackview()
+    }
+}
 //        ZStack(alignment:.bottom){
 //            Rectangle().fill(.orange)
 //                .frame(width: 300, height: 500)
@@ -30,21 +49,3 @@ struct stackview: View {
 //        )
 //                .background(.purple)
 //        }
-        
-        HStack(spacing:0){
-            Text("please")
-                .font(.title)
-                .underline()
-            Text("2")
-                .font(.largeTitle)
-                .foregroundColor(.red)
-            
-        }
-    }
-}
-
-struct stackview_Previews: PreviewProvider {
-    static var previews: some View {
-        stackview()
-    }
-}
