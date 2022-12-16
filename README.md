@@ -8,21 +8,21 @@ The project focuses on the basis of SwiftUI.
 
 
 * <span id="stage1_D">stage1</span>
-	- [text](#text)
-	- [shape](#shape)
-	- [color](#color)
-	- [gradient](#gradient)
-	- [icon](#icon)
-	- [image](#image)
-	- [frame](#frame)
-	- [backgroundandoverlay](#backgroundandoverlay)
+	- [Text](#Text)
+	- [Shape](#Shape)
+	- [Color](#Color)
+	- [Gradient](#Gradient)
+	- [Icon](#Icon)
+	- [Image](#Image)
+	- [Frame](#Frame)
+	- [Background and Overlay](#Background and Overlay)
 
 
 
 
 
 
-<h4 id="text">text</h4>
+<h4 id="Text">Text</h4>
 
 
 `Text` is used to display one or more lines of text content with the same effect as `UILabel`, but it is even better.
