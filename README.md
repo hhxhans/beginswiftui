@@ -15,7 +15,7 @@ The project focuses on the basis of SwiftUI.
 	- [Icon](#Icon)
 	- [Image](#Image)
 	- [Frame](#Frame)
-	- [Background and Overlay](#Background and Overlay)
+	- [BackgroundandOverlay](#BackgroundandOverlay)
 
 
 
