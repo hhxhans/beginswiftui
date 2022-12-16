@@ -48,3 +48,27 @@ Text("SwiftUI")
 
 [🔝](#Stage1_D)
 
+<h4 id="Shape">Shape</h4>
+
+Shapes contain circle, rectangle, eclipse and roundedrectangle, etc.
+
+Example:
+
+```swift
+
+Text("SwiftUI")
+    .foregroundColor(.orange)
+    .bold()
+    .font(.system(.largeTitle))
+    .fontWeight(.medium)
+    .italic()
+    .shadow(color: .black, radius: 1, x: 0, y: 2)
+
+```
+
+<details close>
+  <summary>View running results</summary>
+  <img width="80%" src="images/example/Shape.png"/>
+</details>
+
+[🔝](#Stage1_D)
